@@ -1,0 +1,12 @@
+
+---
+apiVersion: getambassador.io/v3alpha1
+kind: Mapping
+metadata:
+  name: duplicate-echo-server
+  namespace: default
+spec:
+  hostname: 'romantic-jang-3448-beta.edgestack.me'
+  prefix: /backend/
+  service: echo-server.duplicate
+
