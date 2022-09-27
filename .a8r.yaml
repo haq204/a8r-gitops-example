@@ -11,3 +11,7 @@ k8s_config:
   cluster_info:
     cluster_id: 28d0f02e-6b7c-594b-a977-7ac1e0fe7c65
     cluster_name: AES Smoke Tests - GA Migration
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: 98413020-33a4-5f72-be48-acaedc634d0b
+    cluster_name: AES Smoke Tests - Manual
