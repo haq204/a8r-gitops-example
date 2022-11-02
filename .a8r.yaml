@@ -11,3 +11,7 @@ k8s_config:
   cluster_info:
     cluster_id: 17651b00-927a-54d5-af51-b3c80584d390
     cluster_name: AES 2.Y Migration
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: 795bc639-da4a-5d8e-a74e-b918f315aeb0
+    cluster_name: AES 2.Y Helm
